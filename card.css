@@ -1,0 +1,107 @@
+*{  font-family: Georgia, 'Times New Roman', Times, serif;
+    padding: 0px;
+    margin: 0px;
+}
+
+.background{
+    height: 100vh;
+    width: 100vw;
+    background-color:whitesmoke;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+#card{
+    background-color: black;
+    height: 290px;
+    width: 480px;
+    color: white;
+    border-radius: 35px;
+    padding:0px 25px 0 25px ;
+}
+.logo_container{
+    height: 100px;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+.logo_text{
+    width: 50%;
+    height: 100px;
+    font-size: 15px;
+    display: flex;
+    align-items: center;
+
+}
+#logo{
+    height: 40px;
+    width: 50px;
+}
+#text{
+    font-size: 30px;
+    position: relative;
+    left: 10px;
+}
+
+.chip_logo{
+    position: relative;
+    left: 15px;
+    width: 50%;
+    text-align: end;
+}
+
+#chip{
+    height: 60px;
+    width: 90px;
+    position: relative;
+    right: 40px;
+    top: 2px;
+    background-image:none;
+
+}
+
+#number{
+    line-height: 60px;
+    font-size: 30px;
+    opacity: 0.8;
+}
+.num{
+    margin-left: 10px;
+}
+.logo_container_2{
+
+    height: 80px;
+}
+.container_3{
+    display: flex;
+    justify-content:start;
+ }
+
+.name{
+    width: 50%;
+    height: 100px;
+    position: relative;
+    top: 40px;
+
+    
+}
+#name{
+    font-size: 20px;
+}
+.valid_details{
+    width: 50%;
+    height:100px;
+    position: relative;
+    top: 20px;
+    right: -140px;
+}
+p{
+    font-size: 20px;
+}
+#v_number{
+    position: relative;
+    left: 7px;
+}
+
+
