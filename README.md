@@ -1,3 +1,3 @@
 # Mastercard
-This is a created by using HTML and CSS
-for practice purpose..!
+This is created by using HTML and CSS
+for practice purposes..!
